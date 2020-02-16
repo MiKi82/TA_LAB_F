@@ -3,3 +3,7 @@
 ################################################################################
 
 /packages
+/obj/Debug
+/bin/Debug
+/.vs/Fraimwork/v16
+/.editorconfig
